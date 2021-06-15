@@ -1,3 +1,6 @@
+Adaptation of filter for the linux log 
+
+
 # MISP2memcached
 
 Load IOCs from MISP Threat sharing platform to memcached. Use Logstash to enrich your SIEM logs.
